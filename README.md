@@ -1,2 +1,2 @@
 # Writeups
-En este repositorio subo muy a menudo writeups de máquinas de HTB, Dockerlabs y en ocasiones de HackMyVm, Vulnhub o TheHackerLabs :) .
+ Some CTFs writeups from differents CTF Platforms 
